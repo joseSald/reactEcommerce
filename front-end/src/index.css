@@ -10,6 +10,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Poppins', sans-serif;
+  background: linear-gradient(250deg, rgba(255, 0, 0, 0.318), rgba(255, 166, 0, 0.318));
+
 }
 
 code {
